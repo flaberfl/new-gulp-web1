@@ -20,6 +20,8 @@
         "panini": "^1.6.3"
     },
     "dependencies": {
+        "bootstrap": "^4.4.1",
+        "slick-carousel": "^1.8.1",
         "standard": "^14.3.3"
     }
 }
